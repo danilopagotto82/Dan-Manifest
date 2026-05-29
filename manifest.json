@@ -1,0 +1,65 @@
+{
+  "id": "com.dan.studio.git",
+  "version": "3.0.0",
+  "name": "Dan-Manifest Teste",
+  "description": "Gerenciado pelo Dan Studio",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series",
+    "anime",
+    "Coleções",
+    "DaN",
+    "Por Data",
+    "Prêmios",
+    "Top",
+    "Netflix",
+    "Prime Vídeo",
+    "Apple+",
+    "Disney+",
+    "Paramount+",
+    "HBO Max",
+    "Shudder",
+    "Crunchyroll",
+    "GloboPlay",
+    "Gêneros",
+    "Coleções Especiais",
+    "Produtoras",
+    "Franquias",
+    "Ordem Cronológica",
+    "Recomendações",
+    "Animações",
+    "Diretores",
+    "Stephen King",
+    "Atores",
+    "Crônicas Macabras",
+    "collection",
+    "other",
+    "anime.series",
+    "anime.movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "smart_1780070698584_178007",
+      "name": "Filmes Terror (2026)"
+    },
+    {
+      "type": "movie",
+      "id": "ia_1780070572364_178007",
+      "name": "Nova Lista IA"
+    },
+    {
+      "type": "movie",
+      "id": "custom_trakt_addon_v3_a1fac4b3_dd4b_4ca4_b8a5_4c9f5a555e12_movie_trending_movies_178007",
+      "name": "⚡ Bombando no Mundo"
+    },
+    {
+      "type": "Coleções",
+      "id": "custom_org_kris_ultramax_custom_6A72AFD7_movie_mdb_3923_178007",
+      "name": "🤯 Reviravoltas Insanas"
+    }
+  ]
+}
