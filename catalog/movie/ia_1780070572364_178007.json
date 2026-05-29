@@ -1,0 +1,58 @@
+{
+  "metas": [
+    {
+      "id": "tt0209144",
+      "type": "movie",
+      "name": "Amnésia",
+      "poster": "https://btttr.cc/poster/imdb/poster-default/tt0209144.jpg?lang=pt-BR"
+    },
+    {
+      "id": "tt0166924",
+      "type": "movie",
+      "name": "Cidade dos Sonhos",
+      "poster": "https://btttr.cc/poster/imdb/poster-default/tt0166924.jpg?lang=pt-BR"
+    },
+    {
+      "id": "tt0382625",
+      "type": "movie",
+      "name": "O Código Da Vinci",
+      "poster": "https://btttr.cc/poster/imdb/poster-default/tt0382625.jpg?lang=pt-BR"
+    },
+    {
+      "id": "tt0373469",
+      "type": "movie",
+      "name": "Beijos e Tiros",
+      "poster": "https://btttr.cc/poster/imdb/poster-default/tt0373469.jpg?lang=pt-BR"
+    },
+    {
+      "id": "tt0401792",
+      "type": "movie",
+      "name": "Sin City: A Cidade do Pecado",
+      "poster": "https://btttr.cc/poster/imdb/poster-default/tt0401792.jpg?lang=pt-BR"
+    },
+    {
+      "id": "tt0452623",
+      "type": "movie",
+      "name": "Medo da Verdade",
+      "poster": "https://btttr.cc/poster/imdb/poster-default/tt0452623.jpg?lang=pt-BR"
+    },
+    {
+      "id": "tt0443706",
+      "type": "movie",
+      "name": "Zodíaco",
+      "poster": "https://btttr.cc/poster/imdb/poster-default/tt0443706.jpg?lang=pt-BR"
+    },
+    {
+      "id": "tt0441645",
+      "type": "movie",
+      "name": "O Suspeito",
+      "poster": "https://btttr.cc/poster/imdb/poster-default/tt0441645.jpg?lang=pt-BR"
+    },
+    {
+      "id": "tt0278504",
+      "type": "movie",
+      "name": "Insônia",
+      "poster": "https://btttr.cc/poster/imdb/poster-default/tt0278504.jpg?lang=pt-BR"
+    }
+  ]
+}
