@@ -1,55 +1,26 @@
 {
   "id": "com.dan.studio.git",
   "version": "3.0.0",
-  "name": "Dan-Manifest Auto",
-  "description": "Gerenciado pelo Dan Studio",
+  "name": "Dan-Manifest Premium",
+  "description": "Gerenciado pelo Dan Studio CMS",
   "resources": [
     "catalog"
   ],
   "types": [
     "movie",
     "series",
-    "anime",
-    "Coleções",
-    "DaN",
-    "Por Data",
-    "Prêmios",
-    "Top",
-    "Netflix",
-    "Prime Vídeo",
-    "Apple+",
-    "Disney+",
-    "Paramount+",
-    "HBO Max",
-    "Shudder",
-    "Crunchyroll",
-    "GloboPlay",
-    "Gêneros",
-    "Coleções Especiais",
-    "Produtoras",
-    "Franquias",
-    "Ordem Cronológica",
-    "Recomendações",
-    "Animações",
-    "Diretores",
-    "Stephen King",
-    "Atores",
-    "Crônicas Macabras",
-    "collection",
-    "other",
-    "anime.series",
-    "anime.movie"
+    "anime"
   ],
   "catalogs": [
     {
       "type": "movie",
-      "id": "custom_trakt_addon_v3_a1fac4b3_dd4b_4ca4_b8a5_4c9f5a555e12_movie_trending_movies_178007",
-      "name": "⚡ Bombando no Mundo"
+      "id": "custom_builder_1782222619688_178222",
+      "name": "🙀 Filmes pouco conhecidos mas que valem o tempo"
     },
     {
-      "type": "Coleções",
-      "id": "custom_trakt_addon_v3_a1fac4b3_dd4b_4ca4_b8a5_4c9f5a555e12_Cole__es_public_list_19916026_178007",
-      "name": "⏰ Filmes com 90 min ou menos"
+      "type": "movie",
+      "id": "custom_builder_1782220501961_178222",
+      "name": "📖 Filmes de Terror Baseado em História Real"
     }
   ]
 }
